@@ -43,7 +43,6 @@ This project is to put to test the understanding of individual student on what t
 
 ## Live Demo
 
-[Here]() is the live demo.
 
 ## Getting Started
 
