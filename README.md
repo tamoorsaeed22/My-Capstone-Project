@@ -43,7 +43,7 @@ This project is to put to test the understanding of individual student on what t
 
 ## Live Demo
 
-[Here]() is the live demo.
+
 
 ## Getting Started
 
@@ -103,10 +103,6 @@ Track JavaScript linter errors run:
 npx eslint .
 ```
 
-### Deployment
-
-- I used GitHub Pages to deploy my website
-- For more information about publishing sources, see "[About github page](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)"
 
 ## Author
 
