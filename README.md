@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+
 
 # Capstone-project
 
@@ -115,8 +115,10 @@ After you're finished please remove all the comments and instructions!
 </details>
 
 <details>
-<summary>JAVASCRIPT</summary>
- 
+<summary>Javascript</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
+  </ul>
 </details>
 
 ## Additional Tools
@@ -233,14 +235,6 @@ You can deploy this project using:
 - Twitter: [@twitterhandle](https://www.linkedin.com/in/tamoor-saeed-58912a233/)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-## Credits
-
-- The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07)
-- Project from [Microverse](https://bit.ly/MicroverseTN) html & css module
-- Images inspired by [Unsplash](unsplash.com)
-- Topic inspired by [Khadija Hamdani](https://www.researchgate.net/publication/329972741_Knowledge_based_entrepreneurship_the_role_of_networks)
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -281,6 +275,10 @@ Most of us are pretty good at judging whether a project is relevant for us. We m
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+- The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07)
+- Project from [Microverse](https://bit.ly/MicroverseTN) html & css module
+- Images inspired by [Unsplash](unsplash.com)
+- Topic inspired by [Khadija Hamdani](https://www.researchgate.net/publication/329972741_Knowledge_based_entrepreneurship_the_role_of_networks)
 
 I would like to thank my colleague and Microverse for the opportunity
 
