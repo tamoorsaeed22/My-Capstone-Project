@@ -44,7 +44,6 @@ This project is to put to test the understanding of individual student on what t
 ## Live Demo
 https://tamoorsaeed22.github.io/My-Capstone-Project/
 
-
 ## Getting Started
 
 To get a local copy of this project up and running on your local machine follow the steps below.
