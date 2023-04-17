@@ -42,7 +42,7 @@ This project is to put to test the understanding of individual student on what t
 - Node Packet Manager
 
 ## Live Demo
-
+https://tamoorsaeed22.github.io/My-Capstone-Project/
 
 ## Getting Started
 
