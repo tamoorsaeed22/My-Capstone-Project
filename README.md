@@ -43,6 +43,8 @@ This project is to put to test the understanding of individual student on what t
 
 ## Live Demo
 https://tamoorsaeed22.github.io/My-Capstone-Project/
+### Loom 
+here is a https://www.loom.com/share/79b2fd800cff4b459208c3daa81064e2 loom containing a walkthrough of the website.
 
 ## Getting Started
 
