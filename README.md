@@ -3,33 +3,6 @@
 # Capstone-project
 
 
-<<<<<<< HEAD
-=======
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
->>>>>>> 5508f8b8135f2690a248bc5b5ab6a000e7153de0
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
@@ -161,7 +134,10 @@ https://tamoorsaeed22.github.io/My-Capstone-Project/
 https://www.loom.com/share/79b2fd800cff4b459208c3daa81064e2
 
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- GETTING STARTED -->
 
@@ -185,6 +161,24 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
+
+
+```cd my-folder```
+
+
+```git clone git@github.com:tamoorsaeed22/My-Capstone-Project.git```
+
+
+### Install
+
+Install this project with:
+
+`cd my-project`
+
+
+`npm install`
+
+=======
 
 ```cd my-folder```
 
@@ -223,6 +217,38 @@ To run tests, run the following command:
 You can deploy this project using:
 
 `github pages`
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+
+👤 **Tamoor saeed**
+
+- GitHub: [@githubhandle](https://github.com/tamoorsaeed22)
+- Twitter: [@twitterhandle](https://www.linkedin.com/in/tamoor-saeed-58912a233/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[Add More styling]**
+- [ ] **[HTML pop up]**
+- [ ] **[Add work and about section]**
+- [ ] **[Local Host]**
+- [ ] **[Web browser access]**
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -293,8 +319,6 @@ I would like to thank my colleague and Microverse for the opportunity
 
 ## 📝 License <a name="license"></a>
 
-<<<<<<< HEAD
+
 This project is [MIT](./LICENSE) licensed.
-=======
-This project is [MIT](./LICENSE) licensed.
->>>>>>> 5508f8b8135f2690a248bc5b5ab6a000e7153de0
+
