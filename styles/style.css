@@ -35,7 +35,7 @@ a {
 }
 
 .desktop nav li a {
-  color: var(--black);
+  color: var(--orange);
 }
 
 header {
@@ -58,7 +58,7 @@ nav {
 nav ul {
   display: flex;
   gap: 32px;
-  color: var(--lightGray);
+  color: var(--orange);
   font-size: var(--link);
 }
 
@@ -126,6 +126,7 @@ footer {
 
 #active-link {
   color: var(--white);
+  color: var(--orange);
 }
 
 @media (max-width: 1061px) {
