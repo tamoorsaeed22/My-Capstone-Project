@@ -105,9 +105,17 @@ header div ul li {
   color: var(--orange);
 }
 
+.top-icon {
+  display: none;
+}
+
 .logo {
   width: 100px;
   background-color: transparent;
+}
+
+.last-text {
+  display: flex;
 }
 
 footer div img {
@@ -125,7 +133,7 @@ footer {
 }
 
 #active-link {
-  color: var(--orange);
+  color: var(--white);
 }
 
 @media (max-width: 1061px) {

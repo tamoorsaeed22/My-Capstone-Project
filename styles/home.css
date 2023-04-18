@@ -16,9 +16,52 @@ h1 {
   font-size: var(--head1);
   text-transform: uppercase;
   background: url('../images/about/redfilter.jpg') center / cover no-repeat;
-  -webkit-background-clip: text /* Safari and Chrome */;
+  -webkit-background-clip: text;
   font-weight: bold;
   color: transparent;
+}
+
+.main-btn {
+  align-self: center;
+  background-color: #ec5342;
+  color: #fff;
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+  border: none;
+  max-width: 400px;
+  width: 75%;
+  height: 80px;
+  margin-top: 35px;
+  margin-bottom: 40px;
+  transition: 0.2s;
+  cursor: pointer;
+  display: flex;
+}
+
+.join-text {
+  display: flex;
+  position: relative;
+  top: 20px;
+  left: 8px;
+}
+
+.more-btn {
+  max-width: 400px;
+  width: 90%;
+  height: 40px;
+  background-color: #fff;
+  border: 1px solid #d3d3d3;
+  margin: 40px 0;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.more {
+  display: none;
+}
+
+.end-logo {
+  width: 100%;
 }
 
 span {
@@ -83,15 +126,19 @@ span {
   background: rgba(211, 211, 211, 0.062745098);
   flex: 1;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  flex-direction: row;
+  justify-content: space-between;
   align-items: center;
   text-align: center;
-  gap: 16px;
-  padding: 24px;
   border: 2px solid transparent;
   color: var(--gray);
   transition: all 0.3s ease;
+}
+
+.card-desc {
+  font-size: 12px;
+  text-align: left;
+  align-self: self-end;
 }
 
 .card:hover {
@@ -101,13 +148,6 @@ span {
 
 .card-title {
   color: var(--orange);
-}
-
-.more {
-  color: var(--gray);
-  text-decoration: underline;
-  font-size: var(--head3);
-  text-transform: uppercase;
 }
 
 .feature-section {
@@ -215,6 +255,10 @@ span {
   font-size: var(--jobTitle);
 }
 
+.mobile-btn {
+  display: none;
+}
+
 @media (max-width: 867px) {
   .speak-group {
     display: flex;
@@ -252,5 +296,59 @@ span {
 
   .feature-section {
     height: auto;
+  }
+}
+
+@media (min-width: 770px) {
+  .card {
+    background: rgba(211, 211, 211, 0.062745098);
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 16px;
+    padding: 24px;
+    border: 2px solid transparent;
+    color: var(--gray);
+    transition: all 0.3s ease;
+  }
+
+  .card-desc {
+    font-size: 14px;
+  }
+
+  .card-title {
+    color: var(--orange);
+  }
+
+  .main-btn {
+    align-self: center;
+    background-color: #ec5342;
+    color: #fff;
+    font-family: "Lato", sans-serif;
+    font-size: 20px;
+    border: none;
+    max-width: 400px;
+    width: 75%;
+    height: 80px;
+    margin-top: 35px;
+    margin-bottom: 40px;
+    transition: 0.2s;
+    cursor: pointer;
+    display: none;
+  }
+
+  .more {
+    color: var(--gray);
+    text-decoration: underline;
+    font-size: var(--head3);
+    text-transform: uppercase;
+    display: flex;
+  }
+
+  .more-btn {
+    display: none;
   }
 }
