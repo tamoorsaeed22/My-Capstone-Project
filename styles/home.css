@@ -64,6 +64,16 @@ h1 {
   width: 100%;
 }
 
+.last-text {
+  max-width: 800px;
+  margin: auto;
+  padding: 10px;
+}
+
+.last-img{
+  width: 20%;
+}
+
 span {
   font-size: 32px;
   font-weight: 400;
@@ -322,7 +332,6 @@ span {
   .card-title {
     color: var(--orange);
   }
-
   .main-btn {
     align-self: center;
     background-color: #ec5342;
@@ -349,6 +358,6 @@ span {
   }
 
   .more-btn {
-    display: none;
+   display: none;
   }
 }

@@ -47,6 +47,10 @@ header {
   position: relative;
 }
 
+.text-al{
+    padding: 15px;
+}
+
 nav {
   width: 70%;
   margin: auto;
@@ -112,10 +116,6 @@ header div ul li {
 .logo {
   width: 100px;
   background-color: transparent;
-}
-
-.last-text {
-  display: flex;
 }
 
 footer div img {
